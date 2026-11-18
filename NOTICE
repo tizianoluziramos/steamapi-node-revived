@@ -1,0 +1,13 @@
+steamapi-node-revived
+Maintained by tizianoluziramos
+
+Based on steamapi-node by Yukine, originally forked from node-steamapi by Dim.
+Copyright (c) 2017 Yukine
+Copyright (c) 2017 Dim
+https://github.com/DevYukine/steamapi-node
+https://github.com/lloti/node-steamapi
+
+For the 1.0.0 release, the original JavaScript client, endpoint modules,
+type declarations, tests and package configuration were replaced by new
+TypeScript implementations, tests and packaging. See LICENSE for the original
+Apache License, Version 2.0 and copyright information.
